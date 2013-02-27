@@ -8,6 +8,10 @@
 #  E.g. uncomment the next line to install sqlite3
 #sqlite3
 
+request@2.9.202
+coffee-script@1.3.x
+mongoose@~3.2.1
+
 #
 #  For a list of globally installed modules - see file: npm_global_module_list.
 #
