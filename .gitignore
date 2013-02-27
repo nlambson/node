@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lib-cov
 *.seed
 *.log
@@ -12,3 +13,6 @@ logs
 results
 
 npm-debug.log
+=======
+.project
+>>>>>>> 94c20658d5c4ccc3a860e2953153cf0ff54e5c33
