@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-node
-====
 
 Test node js application
 =======
@@ -32,5 +29,3 @@ Then push the repo upstream
 That's it, you can now checkout your application at:
 
     http://nodejs-$yournamespace.rhcloud.com
-
->>>>>>> 94c20658d5c4ccc3a860e2953153cf0ff54e5c33
